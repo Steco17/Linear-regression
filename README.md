@@ -47,9 +47,6 @@ This project avoids that by using a `Pipeline`, so the **same scaler fitted on t
 
 ---
 
-
----
-
 ## Requirements
 
 - Python 3.9+ recommended
